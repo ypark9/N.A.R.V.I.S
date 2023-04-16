@@ -1,0 +1,4 @@
+slack-sdk
+slack-bolt
+spacy
+en_core_web_sm
