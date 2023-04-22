@@ -1,6 +1,7 @@
 # My Project
 
 This is my project, which contains a Slack bot in the `bot/` directory.
+The goal is providing the ultimate AI bot to power the coworkers to enhance their daily work. 
 
 ## Getting Started
 
